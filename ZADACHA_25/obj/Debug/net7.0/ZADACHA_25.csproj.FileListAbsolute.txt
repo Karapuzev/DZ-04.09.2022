@@ -1,0 +1,15 @@
+/Users/deniskarapuzev/Desktop/DZ04.09.2022/ZADACHA_25/obj/Debug/net7.0/ZADACHA_25.csproj.AssemblyReference.cache
+/Users/deniskarapuzev/Desktop/DZ04.09.2022/ZADACHA_25/obj/Debug/net7.0/ZADACHA_25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskarapuzev/Desktop/DZ04.09.2022/ZADACHA_25/obj/Debug/net7.0/ZADACHA_25.AssemblyInfoInputs.cache
+/Users/deniskarapuzev/Desktop/DZ04.09.2022/ZADACHA_25/obj/Debug/net7.0/ZADACHA_25.AssemblyInfo.cs
+/Users/deniskarapuzev/Desktop/DZ04.09.2022/ZADACHA_25/obj/Debug/net7.0/ZADACHA_25.csproj.CoreCompileInputs.cache
+/Users/deniskarapuzev/Desktop/DZ04.09.2022/ZADACHA_25/bin/Debug/net7.0/ZADACHA_25
+/Users/deniskarapuzev/Desktop/DZ04.09.2022/ZADACHA_25/bin/Debug/net7.0/ZADACHA_25.deps.json
+/Users/deniskarapuzev/Desktop/DZ04.09.2022/ZADACHA_25/bin/Debug/net7.0/ZADACHA_25.runtimeconfig.json
+/Users/deniskarapuzev/Desktop/DZ04.09.2022/ZADACHA_25/bin/Debug/net7.0/ZADACHA_25.dll
+/Users/deniskarapuzev/Desktop/DZ04.09.2022/ZADACHA_25/bin/Debug/net7.0/ZADACHA_25.pdb
+/Users/deniskarapuzev/Desktop/DZ04.09.2022/ZADACHA_25/obj/Debug/net7.0/ZADACHA_25.dll
+/Users/deniskarapuzev/Desktop/DZ04.09.2022/ZADACHA_25/obj/Debug/net7.0/refint/ZADACHA_25.dll
+/Users/deniskarapuzev/Desktop/DZ04.09.2022/ZADACHA_25/obj/Debug/net7.0/ZADACHA_25.pdb
+/Users/deniskarapuzev/Desktop/DZ04.09.2022/ZADACHA_25/obj/Debug/net7.0/ZADACHA_25.genruntimeconfig.cache
+/Users/deniskarapuzev/Desktop/DZ04.09.2022/ZADACHA_25/obj/Debug/net7.0/ref/ZADACHA_25.dll
